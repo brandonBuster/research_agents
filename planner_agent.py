@@ -1,5 +1,5 @@
-from pydantic import BaseModel
-from agents import Agent, Field
+from pydantic import BaseModel, Field
+from agents import Agent
 
 AGENT_COUNT=3
 
